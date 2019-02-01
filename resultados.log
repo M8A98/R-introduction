@@ -1,0 +1,6 @@
+[1] " prueba.R"      "resultados.log"
+[1] " prueba.R"      "resultados.log"
+[1] 7
+ loVisto <- "sink() rm(a) dir()"
+ 
+ 
